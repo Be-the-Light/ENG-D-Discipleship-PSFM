@@ -12,6 +12,7 @@
  | [D26] | Secret of Inspiration. | Andrew Murray. | 1916 | ENG
  | [D27] | Secret of Faith Life. | Andrew Murray. | 1915 | ENG
  | [D28] | Secret of United Prayer. | Andrew Murray. | 1918 | ENG
+ | [D29] | Secret of The True Vine. | Andrew Murray. | 1895 | ENG
  | [D30] | Divine Indwelling. | Andrew Murray. | 1896 | ENG
  | [D31] | Fruit of the Vine. | Andrew Murray. | 1898 | ENG
  | [D32] | Sanctification, or the Highway of Holiness. | Andrew Murray. | 1885 | ENG
